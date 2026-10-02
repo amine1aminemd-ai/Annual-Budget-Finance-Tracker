@@ -1,0 +1,33 @@
+Section,Label,Value
+Budget Configuration,Budget Year,2027
+Budget Configuration,Currency,USD
+Budget Configuration,Currency Symbol,$
+Income Categories,Salary,4000
+Income Categories,Freelance,500
+Income Categories,Side Hustle,200
+Income Categories,Bonus,0
+Income Categories,Other,0
+Expense Categories,Housing,1200
+Expense Categories,Utilities,200
+Expense Categories,Groceries,400
+Expense Categories,Transportation,250
+Expense Categories,Insurance,150
+Expense Categories,Healthcare,100
+Expense Categories,Dining Out,150
+Expense Categories,Entertainment,200
+Expense Categories,Shopping,100
+Expense Categories,Education,50
+Expense Categories,Travel,100
+Expense Categories,Personal,80
+Expense Categories,Other,120
+Savings Categories,Emergency Fund,300
+Savings Categories,Vacation,200
+Savings Categories,Investing,500
+Savings Categories,Home,100
+Savings Categories,Car,150
+Savings Categories,Other Savings,80
+Debt Categories,Credit Card,0
+Debt Categories,Student Loan,0
+Debt Categories,Auto Loan,0
+Debt Categories,Medical Debt,0
+Debt Categories,Other Debt,0

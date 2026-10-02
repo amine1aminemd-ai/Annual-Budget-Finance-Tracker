@@ -1,0 +1,6 @@
+Bill,Amount,Due_Date,Frequency,Status
+Rent,1200,1,Monthly,Paid
+Internet,65,15,Monthly,Paid
+Electric,120,20,Monthly,Due
+Insurance,150,21,Monthly,Paid
+Water,60,11,Monthly,Due

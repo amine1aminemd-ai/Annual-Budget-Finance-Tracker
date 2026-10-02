@@ -1,0 +1,15 @@
+Category,Budget,Actual,Difference
+Housing,1200,1200,0
+Utilities,220,215,5
+Groceries,440,470,-30
+Transportation,260,230,30
+Insurance,150,150,0
+Healthcare,100,100,0
+Dining Out,180,190,-10
+Entertainment,220,210,10
+Shopping,130,120,10
+Education,80,0,80
+Travel,150,160,-10
+Personal,90,85,5
+Other,120,120,0
+Total,,,

@@ -1,0 +1,12 @@
+Date,Type,Category,Description,Amount,Month,Account
+2027-01-05,Expense,Groceries,Walmart,85.5,January,Checking
+2027-01-08,Income,Salary,Monthly salary,4000,January,Checking
+2027-01-10,Expense,Transportation,Gas,50,January,Checking
+2027-01-15,Expense,Utilities,Electric bill,120,January,Checking
+2027-01-20,Expense,Housing,Rent,1200,January,Checking
+2027-01-25,Expense,Dining Out,Restaurant,45.99,January,Checking
+2027-02-03,Expense,Groceries,Target,72,February,Checking
+2027-02-08,Income,Salary,Monthly salary,4000,February,Checking
+2027-02-12,Expense,Transportation,Gas,55,February,Checking
+2027-02-18,Expense,Utilities,Water bill,70,February,Checking
+2027-02-20,Expense,Housing,Rent,1200,February,Checking
